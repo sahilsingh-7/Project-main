@@ -1,4 +1,5 @@
-**Project Title**: **Potential Pond: Identifying Optimal Locations for Rainwater Storage**
+**Project Title**:
+**Potential Pond: Identifying Optimal Locations for Rainwater Storage**
 
 **Description**:  
 Potential Pond is a Python-based geospatial application designed to identify suitable locations for rainwater harvesting ponds. By leveraging terrain analysis, hydrological modeling, and GIS techniques, the tool processes data like Digital Elevation Models (DEMs), rainfall patterns, and land use to pinpoint areas with high potential for water storage. The project integrates advanced geospatial libraries and interactive visualization frameworks to provide actionable insights, empowering users to make data-driven decisions for sustainable water management.
