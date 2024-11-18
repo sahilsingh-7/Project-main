@@ -109,4 +109,3 @@ Potential Pond is a Python-based geospatial application designed to identify sui
 
 ---
 
-Would you like more details about any specific part of this workflow or tech stack?
