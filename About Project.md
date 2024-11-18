@@ -1,4 +1,4 @@
-**Project Title**:
+**Project Title**: 
 **Potential Pond: Identifying Optimal Locations for Rainwater Storage**
 
 **Description**:  
